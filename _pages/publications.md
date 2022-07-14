@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications 
-
 - M. Skalicky, S. Simsa, M. Uricar, M. Sulc. **Business Document Information Extraction: Towards Practical Benchmarks**. *Accepted to CLEF 2022*.
 - M. Uricar, G. Sistu, L. Yahiaoui, S. Yogamani. **Ensemble-Based Semi-Supervised Learning to Improve Noisy Soiling Annotations in Autonomous Driving. ITSC 2021.
 - A. Vobecky, D. Hurych, M. Uricar, P. Perez, J. Sivic. **Artificial Dummies for Urban Dataset Augmentation**. AAAI 2021. 
