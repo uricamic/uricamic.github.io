@@ -9,7 +9,7 @@ name: Michal Uřičář, Ph.D.
 author: Michal Uricar 
 
 # Short bio or description (displayed in the header)
-description: Personal Webpage
+description: Senior researcher at Rossum AI Labs, interested in computer vision and machine learning
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: /images/reverie.png
@@ -27,7 +27,7 @@ footer-links:
   flickr:
   github: uricamic
   instagram:
-  linkedin: https://www.linkedin.com/in/michal-u%C5%99i%C4%8D%C3%A1%C5%99-406a8424/
+  linkedin: michal-u%C5%99i%C4%8D%C3%A1%C5%99-406a8424/
   pinterest:
   rss: rss
   twitter: uricamic
